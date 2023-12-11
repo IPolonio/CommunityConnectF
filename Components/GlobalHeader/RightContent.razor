@@ -4,12 +4,12 @@
 <Space Class="@ClassMapper.Class" Size="@("24")">
     <SpaceItem>
         <HeaderSearch Class="action search"
-                      Placeholder="Site Search"
+                      Placeholder="Búsqueda en el sitio"
                       DefaultValue="umi ui"
                       Options="DefaultOptions" />
     </SpaceItem>
     <SpaceItem>
-        <AntDesign.Tooltip Title="@("Help")" Placement="@Placement.Bottom">
+        <AntDesign.Tooltip Title="@("Ayuda")" Placement="@Placement.Bottom">
             <Unbound>
                 <span @ref="@context.Current" class="action">
                     <Icon Type="question-circle" Theme="outline" />
@@ -18,24 +18,24 @@
         </AntDesign.Tooltip>
     </SpaceItem>
     <SpaceItem>
-        <NoticeIcon ClearText="Empty"
-                    ViewMoreText="see more"
+        <NoticeIcon ClearText="Vacío"
+                    ViewMoreText="ver más"
                     Count="_count"
                     OnClear="HandleClear"
                     OnViewMore="HandleViewMore">
-            <NoticeList TabKey="notification"
-                        Title="Notifications"
-                        EmptyText="You have viewed all notifications"
+            <NoticeList TabKey="notificación"
+                        Title="Notificaciones"
+                        EmptyText="Has visto todas las notificaciones"
                         ShowViewMore
                         Data="_notifications" />
-            <NoticeList TabKey="message"
-                        Title="Messages"
-                        EmptyText="You have read all messages"
+            <NoticeList TabKey="mensaje"
+                        Title="Mensajes"
+                        EmptyText="Has leído todos los mensajes"
                         ShowViewMore
                         Data="_messages" />
-            <NoticeList TabKey="event"
-                        Title="Upcoming"
-                        EmptyText="You have completed all to do"
+            <NoticeList TabKey="evento"
+                        Title="Próximos eventos"
+                        EmptyText="Has completado todas las tareas pendientes"
                         ShowViewMore
                         Data="_events" />
         </NoticeIcon>

@@ -15,12 +15,12 @@ namespace New_folder.Pages.User {
     [Inject] public MessageService Message { get; set; }
 
     public void HandleSubmit() {
-      if (_model.UserName == "admin" && _model.Password == "ant.design") {
+      if (_model.UserName == "admin" && _model.Password == "cc") {
         NavigationManager.NavigateTo("/");
         return;
       }
 
-      if (_model.UserName == "user" && _model.Password == "ant.design") NavigationManager.NavigateTo("/");
+      if (_model.UserName == "user" && _model.Password == "cc") NavigationManager.NavigateTo("/");
     }
 
     public async Task GetCaptcha() {

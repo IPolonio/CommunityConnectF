@@ -1,8 +1,3 @@
-/* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
-/* stylelint-disable no-duplicate-selectors */
-/* stylelint-disable */
-/* stylelint-disable declaration-bang-space-before,no-duplicate-selectors,string-no-newline */
-/*此处为了解决样式冲突, 在pro样式的基础上包了一层main, 原始样式从.login开始*/
 .main__b__0 ::deep {
   width: 368px;
   margin: 0 auto;

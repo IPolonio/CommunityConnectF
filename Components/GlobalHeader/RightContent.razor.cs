@@ -38,10 +38,10 @@ namespace New_folder.Components
 
         public AvatarMenuItem[] AvatarMenuItems { get; set; } = new AvatarMenuItem[]
         {
-            new() { Key = "center", IconType = "user", Option = "个人中心"},
-            new() { Key = "setting", IconType = "setting", Option = "个人设置"},
+            new() { Key = "center", IconType = "user", Option = ""},
+            new() { Key = "setting", IconType = "setting", Option = ""},
             new() { IsDivider = true },
-            new() { Key = "logout", IconType = "logout", Option = "退出登录"}
+            new() { Key = "logout", IconType = "logout", Option = ""}
         };
 
         [Inject] protected NavigationManager NavigationManager { get; set; }

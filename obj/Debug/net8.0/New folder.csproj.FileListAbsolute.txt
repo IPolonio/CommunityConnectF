@@ -865,17 +865,7 @@ C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Dashboard\Anal
 C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Dashboard\Analysis\Components\NumberInfo\NumberInfo.razor.rz.scp.css
 C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Dashboard\Analysis\Components\Trend\Trend.razor.rz.scp.css
 C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Dashboard\Analysis\Index.razor.rz.scp.css
-C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Dashboard\Monitor\Components\ActiveChart\ActiveChart.razor.rz.scp.css
-C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Dashboard\Monitor\Index.razor.rz.scp.css
-C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Dashboard\Workplace\Components\EditableLinkGroup\EditableLinkGroup.razor.rz.scp.css
-C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Dashboard\Workplace\Components\Radar\Radar.razor.rz.scp.css
-C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Dashboard\Workplace\Index.razor.rz.scp.css
-C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Form\AdvancedForm\AdvancedForm.razor.rz.scp.css
 C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Form\BasicForm\BasicForm.razor.rz.scp.css
-C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Form\StepForm\Components\Step1\Step1.razor.rz.scp.css
-C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Form\StepForm\Components\Step2\Step2.razor.rz.scp.css
-C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Form\StepForm\Components\Step3\Step3.razor.rz.scp.css
-C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\Form\StepForm\StepForm.razor.rz.scp.css
 C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\List\BasicList\BasicList.razor.rz.scp.css
 C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\List\CardList\CardList.razor.rz.scp.css
 C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\scopedcss\Pages\List\Search\Applications\Applications.razor.rz.scp.css
@@ -1108,3 +1098,4 @@ C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\New folder.dll
 C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\refint\New folder.dll
 C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\New folder.pdb
 C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\ref\New folder.dll
+C:\Users\Isai\Desktop\New folder\obj\Debug\net8.0\New folder.sourcelink.json

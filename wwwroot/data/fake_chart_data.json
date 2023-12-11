@@ -647,152 +647,152 @@
   ],
   "salesTypeData": [
     {
-      "x": "Household Appliance",
+      "x": "Equipo de Diagnóstico",
       "y": 4544
     },
     {
-      "x": "Food and Drink",
+      "x": "Alimentación Parenteral",
       "y": 3321
     },
     {
-      "x": "Personal Health",
+      "x": "Cuidado Cardíaco",
       "y": 3113
     },
     {
-      "x": "Clothing bags",
+      "x": "Exámenes de Sangre",
       "y": 2341
     },
     {
-      "x": "Maternal and Child Products",
+      "x": "Cuidado Prenatal",
       "y": 1231
     },
     {
-      "x": "other",
+      "x": "otros",
       "y": 1231
     }
   ],
   "salesTypeDataOnline": [
     {
-      "x": "Household Appliances",
+      "x": "Equipo de Diagnóstico",
       "y": 244
     },
     {
-      "x": "Eating wine",
+      "x": "Alimentación Enteral",
       "y": 321
     },
     {
-      "x": "Note Health",
+      "x": "Salud Mental",
       "y": 311
     },
     {
-      "x": "Clothing Bags",
+      "x": "Exámenes de Orina",
       "y": 41
     },
     {
-      "x": "Mother and Baby Products",
+      "x": "Cuidado Materno-Infantil",
       "y": 121
     },
     {
-      "x": "other",
+      "x": "otros",
       "y": 111
     }
   ],
   "salesTypeDataOffline": [
     {
-      "x": "Household Appliances",
+      "x": "Equipo de Diagnóstico",
       "y": 99
     },
     {
-      "x": "Food and Drink",
+      "x": "Alimentación Parenteral",
       "y": 188
     },
     {
-      "x": "Personal Health",
+      "x": "Cuidado Cardíaco",
       "y": 344
     },
     {
-      "x": "Clothing Bags",
+      "x": "Exámenes de Sangre",
       "y": 255
     },
     {
-      "x": "other",
+      "x": "otros",
       "y": 65
     }
   ],
   "radarData": [
     {
       "name": "personal",
-      "label": "Quote",
+      "label": "Historia Clínica",
       "value": 10
     },
     {
       "name": "personal",
-      "label": "Word of mouth",
+      "label": "Notas de Enfermería",
       "value": 8
     },
     {
       "name": "personal",
-      "label": "Yield",
+      "label": "Resultados de Laboratorio",
       "value": 4
     },
     {
       "name": "personal",
-      "label": "contribution",
+      "label": "Registro de Medicación",
       "value": 5
     },
     {
       "name": "personal",
-      "label": "heat",
+      "label": "Temperatura Corporal",
       "value": 7
     },
     {
-      "name": "team",
-      "label": "Quote",
+      "name": "equipo",
+      "label": "Historia Clínica",
       "value": 3
     },
     {
-      "name": "team",
-      "label": "Word of mouth",
+      "name": "equipo",
+      "label": "Notas de Enfermería",
       "value": 9
     },
     {
-      "name": "team",
-      "label": "Yield",
+      "name": "equipo",
+      "label": "Resultados de Laboratorio",
       "value": 6
     },
     {
-      "name": "team",
-      "label": "contribution",
+      "name": "equipo",
+      "label": "Registro de Medicación",
       "value": 3
     },
     {
-      "name": "team",
-      "label": "heat",
+      "name": "equipo",
+      "label": "Temperatura Corporal",
       "value": 1
     },
     {
-      "name": "department",
-      "label": "Quote",
+      "name": "departamento",
+      "label": "Historia Clínica",
       "value": 4
     },
     {
-      "name": "department",
-      "label": "Word of mouth",
+      "name": "departamento",
+      "label": "Notas de Enfermería",
       "value": 1
     },
     {
-      "name": "department",
-      "label": "Yield",
+      "name": "departamento",
+      "label": "Resultados de Laboratorio",
       "value": 6
     },
     {
-      "name": "department",
-      "label": "contribution",
+      "name": "departamento",
+      "label": "Registro de Medicación",
       "value": 5
     },
     {
-      "name": "department",
-      "label": "heat",
+      "name": "departamento",
+      "label": "Temperatura Corporal",
       "value": 7
     }
   ]

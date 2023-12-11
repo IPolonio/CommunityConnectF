@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "New folder",
   "resources": {
-    "hash": "sha256-0KRoJqBA2o/WuQxsCbg2xVYLbZqw7o5RtCM3gRj5ZR0=",
+    "hash": "sha256-g2mbwHXCjAaEEFd31H3bqyaJkd51O+ydetMyE115xeE=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.0pfp42jq7e.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -215,10 +215,10 @@
       "mscorlib.wasm": "sha256-cDuLeL3OCtVtiid/dyex1MVgbuzDSRwZxKzuP2Dp4mg=",
       "netstandard.wasm": "sha256-A0h86SDieTMoU/wU2JTszWCsUmMuguDcbap0b0BzsmI=",
       "System.Private.CoreLib.wasm": "sha256-/0DNIm/T0C07X7Tuz5uR8JvVCoAfEE2MnfPUSjyS9xc=",
-      "New folder.wasm": "sha256-pnMZRGcj9OLMJAfe7HmMSRoqbt4iTU1HdOB+UvZ17iA="
+      "New folder.wasm": "sha256-DLqFuFiphFRAxqVAAxdi3ZnBCDUMn6uSx4e3z+iOv90="
     },
     "pdb": {
-      "New folder.pdb": "sha256-fVo4MRbHsfFhBFTtosd9WH/xrFJQ1yY+idzZAmpbBoU="
+      "New folder.pdb": "sha256-/ZPhPEB9qFdJyB2NQywKGwJhhgJAKvM2xL31U8JdHGE="
     }
   },
   "cacheBootResources": true,

@@ -6,33 +6,33 @@
     <div class="login">
         <Form Model="@_model" OnFinish="HandleSubmit">
             <Tabs ActiveKey="@context.LoginType">
-                <TabPane Key="1" Tab="Account Login">
+                <TabPane Key="1" Tab="Inicio de sesión de cuenta">
                     <FormItem>
-                        <AntDesign.Input Placeholder="Username: admin or user" Size="large" @bind-Value="@context.UserName">
+                        <AntDesign.Input Placeholder="Nombre de usuario: " Size="large" @bind-Value="@context.UserName">
                             <Prefix><Icon Type="user" /></Prefix>
                         </AntDesign.Input>
                     </FormItem>
                     <FormItem>
-                        <AntDesign.Input Placeholder="Password: ant.design" Size="large" @bind-Value="@context.Password" Type="password">
+                        <AntDesign.Input Placeholder="Contraseña: " Size="large" @bind-Value="@context.Password" Type="password">
                             <Prefix><Icon Type="lock" /></Prefix>
                         </AntDesign.Input>
                     </FormItem>
                 </TabPane>
-                <TabPane Key="2" Tab="Mobile Login">
+                <TabPane Key="2" Tab="Inicio de sesión móvil">
                     <FormItem>
-                        <AntDesign.Input Placeholder="Phone Number" Size="large" @bind-Value="@context.Mobile">
+                        <AntDesign.Input Placeholder="Número de teléfono" Size="large" @bind-Value="@context.Mobile">
                             <Prefix><Icon Type="mobile" /></Prefix>
                         </AntDesign.Input>
                     </FormItem>
                     <FormItem>
                         <Row Gutter="8">
                             <AntDesign.Col Span="16">
-                                <AntDesign.Input Placeholder="Verification code" Size="large" @bind-Value="@context.Captcha">
+                                <AntDesign.Input Placeholder="Código de verificación" Size="large" @bind-Value="@context.Captcha">
                                     <Prefix><Icon Type="mail" /></Prefix>
                                 </AntDesign.Input>
                             </AntDesign.Col>
                             <AntDesign.Col Span="8">
-                                <Button Size="large" Block OnClick="GetCaptcha">Verify</Button>
+                                <Button Size="large" Block OnClick="GetCaptcha">Verificar</Button>
                             </AntDesign.Col>
                         </Row>
                     </FormItem>
@@ -40,19 +40,19 @@
             </Tabs>
             <div>
                 <Checkbox Checked="@context.AutoLogin">
-                    Auto Login
+                    Inicio de sesión automático
                 </Checkbox>
                 <a style="float: right;">
-                    Forgot Password
+                    ¿Olvidaste la contraseña?
                 </a>
             </div>
-            <Button Type="primary" HtmlType="submit" Class="submit" Size="large" Block>Log in </Button>
-            <div class="other">
-                Other Login Methods
-                <Icon Class="icon" Type="alipay-circle" />
-                <Icon Class="icon" Type="taobao-circle" />
-                <Icon Class="icon" Type="weibo-circle" />
-                <a class="register" href="/user/register">Register Account</a>
+            <Button Type="primary" HtmlType="submit" Class="submit" Size="large" Block>Iniciar sesión</Button>
+            <div class="otros">
+                Otros métodos de inicio de sesión
+                <Icon Class="icono" Type="alipay-circle" />
+                <Icon Class="icono" Type="taobao-circle" />
+                <Icon Class="icono" Type="weibo-circle" />
+                <a class="register" href="/user/register">Registrar cuenta</a>
             </div>
         </Form>
     </div>

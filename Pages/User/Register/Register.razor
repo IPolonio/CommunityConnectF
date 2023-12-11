@@ -3,19 +3,19 @@
 @page "/user/register"
 
 <div class="main__b__1">
-    <div class="register">
-        <h3>Registration</h3>
+    <div class="registro">
+        <h3>Registro</h3>
         <Form Model="@_user">
             <FormItem>
-                <Input Placeholder="Mailbox" @bind-Value="@context.UserName" Size="@InputSize.Large"></Input>
+                <Input Placeholder="Correo electrónico" @bind-Value="@context.UserName" Size="@InputSize.Large"></Input>
             </FormItem>
 
             <FormItem>
-                <Input Placeholder="At Least 6-Digit Password, Case Sensitive" @bind-Value="@context.Password" Size="@InputSize.Large" Type="password"></Input>
+                <Input Placeholder="Contraseña de al menos 6 dígitos, sensible a mayúsculas y minúsculas" @bind-Value="@context.Password" Size="@InputSize.Large" Type="password"></Input>
             </FormItem>
 
             <FormItem>
-                <Input Placeholder="Confirm Password" @bind-Value="@context.ConfirmPassword" Size="@InputSize.Large" Type="password"></Input>
+                <Input Placeholder="Confirmar contraseña" @bind-Value="@context.ConfirmPassword" Size="@InputSize.Large" Type="password"></Input>
             </FormItem>
 
             <FormItem>
@@ -30,7 +30,7 @@
                             <SelectOption TItem="string" TItemValue="string" Value="@("+87")" Label="+87" />
                         </SelectOptions>
                     </Select>
-                    <AntDesign.Input Placeholder="Phone Number" Style="width: 75%;" @bind-Value="@context.Phone"></AntDesign.Input>
+                    <AntDesign.Input Placeholder="Número de teléfono" Style="width: 75%;" @bind-Value="@context.Phone"></AntDesign.Input>
                 </InputGroup>
             </FormItem>
 
@@ -38,18 +38,18 @@
                 <FormItem>
                     <Row Gutter="8">
                         <AntDesign.Col Span="16">
-                            <AntDesign.Input Placeholder="Verification Code" @bind-Value="@context.Captcha" Size="@InputSize.Large"></AntDesign.Input>
+                            <AntDesign.Input Placeholder="Código de verificación" @bind-Value="@context.Captcha" Size="@InputSize.Large"></AntDesign.Input>
                         </AntDesign.Col>
                         <AntDesign.Col Span="8">
-                            <Button Size="large" Block>Get Code</Button>
+                            <Button Size="large" Block>Obtener código</Button>
                         </AntDesign.Col>
                     </Row>
                 </FormItem>
             </FormItem>
 
             <FormItem>
-                <Button Type="primary" Size="large" OnClick="Reg" class="submit">Register</Button>
-                <a class="login" href="/user/login">Log in with an existing account</a>
+                <Button Type="primary" Size="large" OnClick="Reg" class="submit">Registrarse</Button>
+                <a class="login" href="/usuario/iniciar-sesion">Iniciar sesión con una cuenta existente</a>
             </FormItem>
         </Form>
     </div>

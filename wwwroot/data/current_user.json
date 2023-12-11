@@ -1,27 +1,27 @@
 {
-  "name": "Serati Ma",
-  "avatar": "https://gw.alipayobjects.com/zos/antfincdn/XAosXuNZyF/BiazfanxmamNRoxxVxka.png",
+  "name": "Juan Perez",
+  "avatar": "https://static.vecteezy.com/system/resources/previews/019/896/008/original/male-user-avatar-icon-in-flat-design-style-person-signs-illustration-png.png",
   "userid": "00000001",
-  "email": "antdesign@alipay.com",
+  "email": "perezjuan@dcu.itla.edu.do",
   "signature": "Be tolerant to diversity, tolerance is a virtue",
-  "title": "Interaction Expert",
-  "group": "Ant Financial Services-XX Business Group-XX Platform Department-XX Technology Department-UED",
+  "title": "Experto UX/UI",
+  "group": "Community Connect",
   "tags": [
     {
       "key": "0",
-      "label": "Very thoughtful"
+      "label": "Muy reflexivo"
     },
     {
       "key": "1",
-      "label": "Focus on Design"
+      "label": "Enfoque en Diseño"
     },
     {
       "key": "2",
-      "label": "Spicy ~"
+      "label": "¡Picante!"
     },
     {
       "key": "3",
-      "label": "Long legs"
+      "label": "Piernas largas"
     },
     {
       "key": "4",
@@ -29,22 +29,22 @@
     },
     {
       "key": "5",
-      "label": "Have inclusive of all rivers"
+      "label": "Incluye todos los ríos"
     }
   ],
   "notifyCount": 12,
   "unreadCount": 11,
-  "country": "China",
+  "country": "Dominican Republic",
   "geographic": {
     "province": {
-      "label": "Zhejiang Province",
+      "label": "Provincia La Altagracia",
       "key": "330000"
     },
     "city": {
-      "label": "Hangzhou City",
+      "label": "Ciudad de Higuey",
       "key": "330100"
     }
   },
-  "address": "77 Gongzhuan Road, Xihu District",
+  "address": "77 Gongzhuan Road, Distrito de micasa",
   "phone": "0752-268888888"
 }
