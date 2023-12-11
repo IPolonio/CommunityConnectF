@@ -1,0 +1,49 @@
+/* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
+/* stylelint-disable no-duplicate-selectors */
+/* stylelint-disable */
+/* stylelint-disable declaration-bang-space-before,no-duplicate-selectors,string-no-newline */
+.filterCardList[b-knnl5takha] {
+  margin-bottom: -24px;
+}
+.filterCardList :global .ant-card-meta-content[b-knnl5takha] {
+  margin-top: 0;
+}
+.filterCardList :global .ant-card-meta-avatar[b-knnl5takha] {
+  font-size: 0;
+}
+.filterCardList :global .ant-list .ant-list-item-content-single[b-knnl5takha] {
+  max-width: 100%;
+}
+.filterCardList .cardInfo[b-knnl5takha] {
+  margin-top: 16px;
+  margin-left: 40px;
+  zoom: 1;
+}
+.filterCardList .cardInfo[b-knnl5takha]::before,
+.filterCardList .cardInfo[b-knnl5takha]::after {
+  display: table;
+  content: ' ';
+}
+.filterCardList .cardInfo[b-knnl5takha]::after {
+  clear: both;
+  height: 0;
+  font-size: 0;
+  visibility: hidden;
+}
+.filterCardList .cardInfo > div[b-knnl5takha] {
+  position: relative;
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.filterCardList .cardInfo > div p[b-knnl5takha] {
+  margin: 0;
+  font-size: 24px;
+  line-height: 32px;
+}
+.filterCardList .cardInfo > div p:first-child[b-knnl5takha] {
+  margin-bottom: 4px;
+  color: rgba(0, 0, 0, 0.45);
+  font-size: 12px;
+  line-height: 20px;
+}

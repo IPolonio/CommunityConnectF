@@ -1,0 +1,21 @@
+.registerResult[b-mz8r3vzb06] {
+  width: 800px;
+  min-height: 400px;
+  margin: auto;
+  padding: 80px;
+  background: none;
+}
+.registerResult :global .anticon[b-mz8r3vzb06] {
+  font-size: 64px;
+}
+.registerResult .title[b-mz8r3vzb06] {
+  margin-top: 32px;
+  font-size: 20px;
+  line-height: 28px;
+}
+.registerResult .actions[b-mz8r3vzb06] {
+  margin-top: 40px;
+}
+.registerResult .actions a + a[b-mz8r3vzb06] {
+  margin-left: 8px;
+}

@@ -1,0 +1,71 @@
+/* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
+/* stylelint-disable no-duplicate-selectors */
+/* stylelint-disable */
+/* stylelint-disable declaration-bang-space-before,no-duplicate-selectors,string-no-newline */
+.standardFormRow[b-8afkqws5vt] {
+  display: flex;
+  width: 100%;
+  margin-bottom: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px dashed #f0f0f0;
+}
+.standardFormRow .ant-form-item[b-8afkqws5vt],
+.standardFormRow .ant-legacy-form-item[b-8afkqws5vt] {
+  margin-right: 24px;
+}
+.standardFormRow .ant-form-item-label label[b-8afkqws5vt],
+.standardFormRow .ant-legacy-form-item-label label[b-8afkqws5vt] {
+  margin-right: 0;
+  color: rgba(0, 0, 0, 0.85);
+}
+.standardFormRow .ant-form-item-label[b-8afkqws5vt],
+.standardFormRow .ant-legacy-form-item-label[b-8afkqws5vt],
+.standardFormRow .ant-form-item-control[b-8afkqws5vt],
+.standardFormRow .ant-legacy-form-item-control[b-8afkqws5vt] {
+  padding: 0;
+  line-height: 32px;
+}
+.standardFormRow .label[b-8afkqws5vt] {
+  flex: 0 0 auto;
+  margin-right: 24px;
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 14px;
+  text-align: right;
+}
+.standardFormRow .label > span[b-8afkqws5vt] {
+  display: inline-block;
+  height: 32px;
+  line-height: 32px;
+}
+.standardFormRow .label > span[b-8afkqws5vt]::after {
+  content: '：';
+}
+.standardFormRow .content[b-8afkqws5vt] {
+  flex: 1 1 0;
+}
+.standardFormRow .content :global .ant-form-item:last-child[b-8afkqws5vt],
+.standardFormRow .content :global .ant-legacy-form-item:last-child[b-8afkqws5vt] {
+  display: block;
+  margin-right: 0;
+}
+.standardFormRowLast[b-8afkqws5vt] {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border: none;
+}
+.standardFormRowBlock :global .ant-form-item[b-8afkqws5vt],
+.standardFormRowBlock :global .ant-legacy-form-item[b-8afkqws5vt],
+.standardFormRowBlock :global div.ant-form-item-control-wrapper[b-8afkqws5vt],
+.standardFormRowBlock :global div.ant-legacy-form-item-control-wrapper[b-8afkqws5vt] {
+  display: block;
+}
+.standardFormRowGrid .ant-form-item[b-8afkqws5vt],
+.standardFormRowGrid .ant-legacy-form-item[b-8afkqws5vt],
+.standardFormRowGrid div.ant-form-item-control-wrapper[b-8afkqws5vt],
+.standardFormRowGrid div.ant-legacy-form-item-control-wrapper[b-8afkqws5vt] {
+  display: block;
+}
+.standardFormRowGrid .ant-form-item-label[b-8afkqws5vt],
+.standardFormRowGrid .ant-legacy-form-item-label[b-8afkqws5vt] {
+  float: left;
+}

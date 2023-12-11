@@ -1,0 +1,46 @@
+/* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
+/* stylelint-disable no-duplicate-selectors */
+/* stylelint-disable */
+/* stylelint-disable declaration-bang-space-before,no-duplicate-selectors,string-no-newline */
+.main__b__1[b-agx7m63phz] {
+  width: 368px;
+  margin: 0 auto;
+}
+.main__b__1 h3[b-agx7m63phz] {
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+.main__b__1 .password[b-agx7m63phz] {
+  margin-bottom: 24px;
+}
+.main__b__1 .password :global .ant-form-item-explain[b-agx7m63phz] {
+  display: none;
+}
+.main__b__1 .getCaptcha[b-agx7m63phz] {
+  display: block;
+  width: 100%;
+}
+.main__b__1 .submit[b-agx7m63phz] {
+  width: 50%;
+}
+.main__b__1 .login[b-agx7m63phz] {
+  float: right;
+  line-height: 40px;
+}
+.success[b-agx7m63phz],
+.warning[b-agx7m63phz],
+.error[b-agx7m63phz] {
+  transition: color 0.3s;
+}
+.success[b-agx7m63phz] {
+  color: #52c41a;
+}
+.warning[b-agx7m63phz] {
+  color: #faad14;
+}
+.error[b-agx7m63phz] {
+  color: #ff4d4f;
+}
+.progress-pass > .progress :global .ant-progress-bg[b-agx7m63phz] {
+  background-color: #faad14;
+}

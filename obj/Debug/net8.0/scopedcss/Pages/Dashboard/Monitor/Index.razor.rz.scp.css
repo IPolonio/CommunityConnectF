@@ -1,0 +1,21 @@
+/* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
+/* stylelint-disable no-duplicate-selectors */
+/* stylelint-disable */
+/* stylelint-disable declaration-bang-space-before,no-duplicate-selectors,string-no-newline */
+.mapChart[b-evxna0hlte] {
+  height: 452px;
+  padding-top: 24px;
+}
+.mapChart img[b-evxna0hlte] {
+  display: inline-block;
+  max-width: 100%;
+  max-height: 437px;
+}
+.pieCard :global(.pie-stat)[b-evxna0hlte] {
+  font-size: 24px !important;
+}
+@media screen and (max-width: 992px) {
+  .mapChart[b-evxna0hlte] {
+    height: auto;
+  }
+}

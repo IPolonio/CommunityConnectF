@@ -1,0 +1,63 @@
+/* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
+/* stylelint-disable no-duplicate-selectors */
+/* stylelint-disable */
+/* stylelint-disable declaration-bang-space-before,no-duplicate-selectors,string-no-newline */
+.avatarHolder[b-u51zm2xf2d] {
+  margin-bottom: 24px;
+  text-align: center;
+}
+.avatarHolder > img[b-u51zm2xf2d] {
+  width: 104px;
+  height: 104px;
+  margin-bottom: 20px;
+}
+.avatarHolder .name[b-u51zm2xf2d] {
+  margin-bottom: 4px;
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+}
+.detail p[b-u51zm2xf2d] {
+  position: relative;
+  margin-bottom: 8px;
+  padding-left: 26px;
+}
+.detail p:last-child[b-u51zm2xf2d] {
+  margin-bottom: 0;
+}
+.detail i[b-u51zm2xf2d] {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 14px;
+  height: 14px;
+}
+.tagsTitle[b-u51zm2xf2d],
+.teamTitle[b-u51zm2xf2d] {
+  margin-bottom: 12px;
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 500;
+}
+.tags .ant-tag[b-u51zm2xf2d] {
+  margin-bottom: 8px;
+}
+.team .ant-avatar[b-u51zm2xf2d] {
+  margin-right: 12px;
+}
+.team a[b-u51zm2xf2d] {
+  display: block;
+  margin-bottom: 24px;
+  overflow: hidden;
+  color: rgba(0, 0, 0, 0.85);
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  word-break: break-all;
+  transition: color 0.3s;
+}
+.team a:hover[b-u51zm2xf2d] {
+  color: #1890ff;
+}
+.tabsCard .ant-card-head[b-u51zm2xf2d] {
+  padding: 0 16px;
+}
