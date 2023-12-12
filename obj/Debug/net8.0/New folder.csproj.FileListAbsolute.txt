@@ -1960,7 +1960,6 @@ C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Accou
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Account\Center\Components\ArticleListContent\ArticleListContent.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Account\Center\Components\Articles\Articles.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Account\Center\Components\AvatarList\AvatarList.razor.rz.scp.css
-C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Account\Center\Components\Projects\Projects.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Account\Center\Index.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Account\Settings\Components\BaseView.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Account\Settings\Components\GeographicView.razor.rz.scp.css
