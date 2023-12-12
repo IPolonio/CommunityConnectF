@@ -34,6 +34,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xCYXNpY0xheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/isaac/Downloads/ComunnityConnect/Layouts/UserLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xVc2VyTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Center/Components/AvatarList/AvatarListItem.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxDZW50ZXJcQ29tcG9uZW50c1xBdmF0YXJMaXN0XEF2YXRhckxpc3RJdGVtLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -126,13 +130,13 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdFxTZWFyY2hcU2VhcmNoTGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/User/Login/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxMb2dpblxMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/isaac/Downloads/ComunnityConnect/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/isaac/Downloads/ComunnityConnect/Layouts/UserLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xVc2VyTGF5b3V0LnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-jmlaxb3dwh
 
 [C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Center/Components/Applications/Applications.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxDZW50ZXJcQ29tcG9uZW50c1xBcHBsaWNhdGlvbnNcQXBwbGljYXRpb25zLnJhem9y
@@ -289,10 +293,6 @@ build_metadata.AdditionalFiles.CssScope = b-x2n4heltfu
 [C:/Users/isaac/Downloads/ComunnityConnect/Pages/Result/Success/Success.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdWx0XFN1Y2Nlc3NcU3VjY2Vzcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-a2mbwmg9sw
-
-[C:/Users/isaac/Downloads/ComunnityConnect/Pages/User/Login/Login.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxMb2dpblxMb2dpbi5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-kfqz503vg4
 
 [C:/Users/isaac/Downloads/ComunnityConnect/Pages/User/RegisterResult/RegisterResult.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxSZWdpc3RlclJlc3VsdFxSZWdpc3RlclJlc3VsdC5yYXpvcg==

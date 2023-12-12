@@ -1955,7 +1955,6 @@ C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\staticwebassets\msbui
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.New folder.props
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.New folder.props
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Layouts\UserLayout.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Account\Center\Components\Applications\Applications.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Account\Center\Components\ArticleListContent\ArticleListContent.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Account\Center\Components\Articles\Articles.razor.rz.scp.css
@@ -1995,7 +1994,6 @@ C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\List\
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\List\TableList\TableList.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Result\Fail\Fail.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Result\Success\Success.razor.rz.scp.css
-C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\User\Login\Login.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\User\RegisterResult\RegisterResult.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\User\Register\Register.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\bundle\New folder.styles.css

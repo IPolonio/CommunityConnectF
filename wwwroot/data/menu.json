@@ -30,7 +30,7 @@
     "children": [
       {
         "path": "/form/basic-form",
-        "name": "Basic Form",
+        "name": "Patien form",
         "key": "form.basic-form"
       },
       {

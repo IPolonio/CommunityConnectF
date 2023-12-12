@@ -4,7 +4,7 @@ namespace New_folder.Models
 {
     public class StepFormModel
     {
-        public string ReceiverAccountType { get; set; } = "ant-design@alipay.com";
+        public string ReceiverAccountType { get; set; } = "user@alipay.com";
         public string ReceiverAccount { get; set; } = "test@example.com";
         public string ReceiverName { get; set; } = "Alex";
         public string PayAccount { get; set; }
