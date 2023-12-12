@@ -1993,8 +1993,6 @@ C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\List\
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\List\Search\Applications\Components\TagSelect\TagSelect.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\List\Search\Articles\Articles.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\List\TableList\TableList.razor.rz.scp.css
-C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Profile\Advanced\Advanced.razor.rz.scp.css
-C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Profile\Basic\Basic.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Result\Fail\Fail.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\Result\Success\Success.razor.rz.scp.css
 C:\Users\isaac\Downloads\ComunnityConnect\obj\Debug\net8.0\scopedcss\Pages\User\Login\Login.razor.rz.scp.css
