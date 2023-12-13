@@ -89,7 +89,7 @@
     {
         "id": "000000012",
         "title": "ABCD Version release",
-        "description": "Guanlin submitted on 2017-01-06, the code change task must be completed before 2017-01-07",
+        "description": "Marcus submitted on 2017-01-06, the code change task must be completed before 2017-01-07",
         "extra": "processing",
         "status": "processing",
         "type": "event"
