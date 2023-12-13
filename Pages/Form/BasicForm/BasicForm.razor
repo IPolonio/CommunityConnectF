@@ -1,0 +1,134 @@
+﻿@namespace New_folder.Pages.Form
+@page "/form/basic-form"
+
+<PageContainer Title="Formulario para datos de pacientes">
+    <Breadcrumb>
+        <Breadcrumb>
+            <BreadcrumbItem>Home</BreadcrumbItem>
+            <BreadcrumbItem>Form</BreadcrumbItem>
+            <BreadcrumbItem>Basic Form</BreadcrumbItem>
+        </Breadcrumb>
+    </Breadcrumb>
+    <Content>
+        <span>El formulario de información médica para pacientes es una herramienta fundamental en la prestación de
+            atención médica de calidad. Permite recopilar de manera precisa y
+            segura los datos personales y antecedentes médicos relevantes de cada paciente.</span>
+    </Content>
+    <ChildContent>
+        <Card>
+            <h2>Información del paciente</h2>
+            <Form Model="@_model" Style="margin-top: 30px;" OnFinish="HandleSubmit">
+                <FormItem Label="Nombre completo" LabelCol="_formItemLayout.LabelCol"
+                    WrapperCol="_formItemLayout.WrapperCol">
+                    <Input Placeholder="Ingrese el nombre" @bind-Value="@context.Title" />
+                </FormItem>
+
+                <FormItem Label="Fecha de nacimiento" LabelCol="_formItemLayout.LabelCol"
+                    WrapperCol="_formItemLayout.WrapperCol">
+                    <RangePicker Style="width:100%;" TValue="DateTime?[]" @bind-Value="@context.DateRange" />
+                </FormItem>
+
+                <FormItem Label="Género" LabelCol="_formItemLayout.LabelCol" WrapperCol="_formItemLayout.WrapperCol">
+                    <RadioGroup @bind-Value="@context.Disclosure">
+                        <Radio Value="1">Varón</Radio>
+                        <Radio Value="2">Hembra</Radio>
+                        <!--<Radio Value="3">Otro</Radio>-->
+                    </RadioGroup>
+                </FormItem>
+
+                <FormItem Label="Dirección" LabelCol="_formItemLayout.LabelCol" WrapperCol="_formItemLayout.WrapperCol">
+                    <Input Placeholder="Por favor, coloque su dirección" @bind-Value="@context.Client" />
+                </FormItem>
+
+                <FormItem Label="Número de teléfono" LabelCol="_formItemLayout.LabelCol"
+                    WrapperCol="_formItemLayout.WrapperCol">
+                    <Input Placeholder="Ingrese su numero en el formato 000-000-0000" @bind-Value="@context.Invites" />
+                </FormItem>
+
+                <FormItem Label="Dirección de correo electronico" LabelCol="_formItemLayout.LabelCol"
+                    WrapperCol="_formItemLayout.WrapperCol">
+                    <Input Placeholder="Por favor, coloque el correo electronico" @bind-Value="@context.Client" />
+                </FormItem>
+
+                <FormItem Label="Cédula de identidad" LabelCol="_formItemLayout.LabelCol"
+                    WrapperCol="_formItemLayout.WrapperCol">
+                    <Input Placeholder="Coloque la cédula" @bind-Value="@context.Client" />
+                </FormItem>
+
+                <h2 style="margin-bottom: 30px;">Información de contacto de emergencia</h2>
+                <Form Model="@_model" Style="margin-top: 30px;" OnFinish="HandleSubmit"></Form>
+
+                <FormItem Label="Nombre completo del contacto" LabelCol="_formItemLayout.LabelCol"
+                    WrapperCol="_formItemLayout.WrapperCol">
+                    <Input Placeholder="Ingrese el nombre" @bind-Value="@context.Title" />
+                </FormItem>
+
+                <FormItem Label="Número de teléfono del contacto" LabelCol="_formItemLayout.LabelCol"
+                    WrapperCol="_formItemLayout.WrapperCol">
+                    <Input Placeholder="Ingrese su numero en el formato 000-000-0000" @bind-Value="@context.Invites" />
+                </FormItem>
+
+                <FormItem Label="Relación con el paciente" LabelCol="_formItemLayout.LabelCol"
+                    WrapperCol="_formItemLayout.WrapperCol">
+                    <Input Placeholder="Ingrese relación" @bind-Value="@context.Invites" />
+                </FormItem>
+
+
+                <h2 style="margin-bottom: 30px;">Datos medicos basicos</h2>
+
+                <FormItem Label="Alergías conocidas" LabelCol="_formItemLayout.LabelCol"
+                    WrapperCol="_formItemLayout.WrapperCol">
+                    <TextArea MinRows="4" @bind-Value="@context.Goal"></TextArea>
+                </FormItem>
+
+                <FormItem Label="Grupo sanguíneo " LabelCol="_formItemLayout.LabelCol"
+                    WrapperCol="_formItemLayout.WrapperCol">
+                    <Input Placeholder="" @bind-Value="@context.Title" />
+                </FormItem>
+
+                <FormItem Label="Peso y altura" LabelCol="_formItemLayout.LabelCol"
+                    WrapperCol="_formItemLayout.WrapperCol">
+                    <Input Placeholder="Ingrese los datos en cm y kg" @bind-Value="@context.Title" />
+                </FormItem>
+
+                <FormItem Label="Historial medico relevante" LabelCol="_formItemLayout.LabelCol"
+                    WrapperCol="_formItemLayout.WrapperCol">
+                    <TextArea MinRows="4" @bind-Value="@context.Goal"></TextArea>
+                </FormItem>
+
+                <FormItem Label="Medicamentos actuales o tratamientos" LabelCol="_formItemLayout.LabelCol"
+                    WrapperCol="_formItemLayout.WrapperCol">
+                    <TextArea MinRows="4" @bind-Value="@context.Goal"></TextArea>
+                </FormItem>
+
+                <!--<FormItem Label="Metrics" LabelCol="_formItemLayout.LabelCol" WrapperCol="_formItemLayout.WrapperCol">
+                    <TextArea MinRows="4" @bind-Value="@context.Standard"></TextArea>
+                </FormItem>
+                <FormItem Label="Client" LabelCol="_formItemLayout.LabelCol" WrapperCol="_formItemLayout.WrapperCol">
+                    <Input
+                        Placeholder="Please describe your customer service, internal customers directly Name job number"
+                @bind-Value="@context.Client" />
+                </FormItem>
+                <FormItem Label="Inviting critics" LabelCol="_formItemLayout.LabelCol"
+                    WrapperCol="_formItemLayout.WrapperCol">
+                    <Input
+                        Placeholder="Please describe your customer service, internal customers directly Name job number"
+                @bind-Value="@context.Invites" />
+                </FormItem>
+                <FormItem Label="Weight" LabelCol="_formItemLayout.LabelCol" WrapperCol="_formItemLayout.WrapperCol">
+                    <AntDesign.InputNumber @bind-Value="@context.Weight" Min="0" Max="100" DefaultValue="0" />
+                    <span class="ant-form-text">%</span>
+                </FormItem>-->
+
+                <FormItem Label=" " Style="margin-top:32px" WrapperCol="_submitFormLayout.WrapperCol">
+                    <Button Type="primary" HtmlType="submit">
+                        Submit
+                    </Button>
+                    <Button Style="margin-left:8px">
+                        Save
+                    </Button>
+                </FormItem>
+            </Form>
+        </Card>
+    </ChildContent>
+</PageContainer>

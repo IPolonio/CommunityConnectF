@@ -1,0 +1,110 @@
+/* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
+/* stylelint-disable no-duplicate-selectors */
+/* stylelint-disable */
+/* stylelint-disable declaration-bang-space-before,no-duplicate-selectors,string-no-newline */
+.cardList .card .ant-card-meta-title[b-uc6kz84dz2] {
+  margin-bottom: 12px;
+}
+.cardList .card .ant-card-meta-title > a[b-uc6kz84dz2] {
+  display: inline-block;
+  max-width: 100%;
+  color: rgba(0, 0, 0, 0.85);
+}
+.cardList .card .ant-card-body:hover .ant-card-meta-title > a[b-uc6kz84dz2] {
+  color: #1890ff;
+}
+.cardList .item[b-uc6kz84dz2] {
+  height: 64px;
+}
+.cardList .ant-list .ant-list-item-content-single[b-uc6kz84dz2] {
+  max-width: 100%;
+}
+.extraImg[b-uc6kz84dz2] {
+  width: 155px;
+  margin-top: -20px;
+  text-align: center;
+}
+.extraImg img[b-uc6kz84dz2] {
+  width: 100%;
+}
+.newButton[b-uc6kz84dz2] {
+  width: 100%;
+  height: 201px;
+  color: rgba(0, 0, 0, 0.45);
+  background-color: #fff;
+  border-color: #d9d9d9;
+}
+.cardAvatar[b-uc6kz84dz2] {
+  width: 48px;
+  height: 48px;
+  border-radius: 48px;
+}
+.cardDescription[b-uc6kz84dz2] {
+  position: relative;
+  max-height: 4.5em;
+  margin-right: -1em;
+  padding-right: 1em;
+  overflow: hidden;
+  line-height: 1.5em;
+  text-align: justify;
+}
+.cardDescription[b-uc6kz84dz2]::before {
+  position: absolute;
+  right: 14px;
+  bottom: 0;
+  padding: 0 1px;
+  background: #fff;
+  content: '...';
+}
+.cardDescription[b-uc6kz84dz2]::after {
+  position: absolute;
+  right: 14px;
+  width: 1em;
+  height: 1em;
+  margin-top: 0.2em;
+  background: white;
+  content: '';
+}
+.pageHeaderContent__b__1[b-uc6kz84dz2] {
+  position: relative;
+}
+.contentLink[b-uc6kz84dz2] {
+  margin-top: 16px;
+}
+.contentLink a[b-uc6kz84dz2] {
+  margin-right: 32px;
+}
+.contentLink a img[b-uc6kz84dz2] {
+  width: 24px;
+}
+.contentLink img[b-uc6kz84dz2] {
+  margin-right: 8px;
+  vertical-align: middle;
+}
+@media screen and (max-width: 992px) {
+  .contentLink a[b-uc6kz84dz2] {
+    margin-right: 16px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .extraImg[b-uc6kz84dz2] {
+    display: none;
+  }
+}
+@media screen and (max-width: 576px) {
+  .pageHeaderContent__b__1[b-uc6kz84dz2] {
+    padding-bottom: 30px;
+  }
+  .contentLink[b-uc6kz84dz2] {
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 1000px;
+  }
+  .contentLink a[b-uc6kz84dz2] {
+    margin-right: 16px;
+  }
+  .contentLink img[b-uc6kz84dz2] {
+    margin-right: 4px;
+  }
+}

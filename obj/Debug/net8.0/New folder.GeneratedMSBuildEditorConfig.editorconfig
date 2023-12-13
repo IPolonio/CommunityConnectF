@@ -1,0 +1,303 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = New_folder
+build_property.RootNamespace = New_folder
+build_property.ProjectDir = C:\Users\isaac\Downloads\ComunnityConnect\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 3.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\isaac\Downloads\ComunnityConnect
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Components/GlobalHeader/RightContent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHbG9iYWxIZWFkZXJcUmlnaHRDb250ZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Layouts/BasicLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xCYXNpY0xheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Layouts/UserLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xVc2VyTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Center/Components/AvatarList/AvatarListItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxDZW50ZXJcQ29tcG9uZW50c1xBdmF0YXJMaXN0XEF2YXRhckxpc3RJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Settings/Components/BindingView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTZXR0aW5nc1xDb21wb25lbnRzXEJpbmRpbmdWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Settings/Components/NotificationView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTZXR0aW5nc1xDb21wb25lbnRzXE5vdGlmaWNhdGlvblZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Settings/Components/SecurityView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTZXR0aW5nc1xDb21wb25lbnRzXFNlY3VyaXR5Vmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/Charts/Bar/Bar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcQ2hhcnRzXEJhclxCYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/Charts/Gauge/Gauge.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcQ2hhcnRzXEdhdWdlXEdhdWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/Charts/MiniArea/MiniArea.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcQ2hhcnRzXE1pbmlBcmVhXE1pbmlBcmVhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/Charts/MiniBar/MiniBar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcQ2hhcnRzXE1pbmlCYXJcTWluaUJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/PageLoading/PageLoading.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcUGFnZUxvYWRpbmdcUGFnZUxvYWRpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/SalesCard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcU2FsZXNDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Monitor/Components/Charts/Gauge/Gauge.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXE1vbml0b3JcQ29tcG9uZW50c1xDaGFydHNcR2F1Z2VcR2F1Z2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Monitor/Components/Charts/Map/Map.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXE1vbml0b3JcQ29tcG9uZW50c1xDaGFydHNcTWFwXE1hcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Monitor/Components/Charts/Map/MiniArea.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXE1vbml0b3JcQ29tcG9uZW50c1xDaGFydHNcTWFwXE1pbmlBcmVhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Monitor/Components/Charts/Pie/Pie.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXE1vbml0b3JcQ29tcG9uZW50c1xDaGFydHNcUGllXFBpZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Monitor/Components/Charts/TagCloud/TagCloud.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXE1vbml0b3JcQ29tcG9uZW50c1xDaGFydHNcVGFnQ2xvdWRcVGFnQ2xvdWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Monitor/Components/Charts/WaterWave/WaterWave.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXE1vbml0b3JcQ29tcG9uZW50c1xDaGFydHNcV2F0ZXJXYXZlXFdhdGVyV2F2ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Workplace/Components/Radar/AutoHeight.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXFdvcmtwbGFjZVxDb21wb25lbnRzXFJhZGFyXEF1dG9IZWlnaHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Exception/403/403.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhjZXB0aW9uXDQwM1w0MDMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Exception/404/404.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhjZXB0aW9uXDQwNFw0MDQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Exception/500/500.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhjZXB0aW9uXDUwMFw1MDAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/List/Search/Applications/Components/TagSelect/TagSelectOption.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdFxTZWFyY2hcQXBwbGljYXRpb25zXENvbXBvbmVudHNcVGFnU2VsZWN0XFRhZ1NlbGVjdE9wdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/List/Search/Projects/Projects.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdFxTZWFyY2hcUHJvamVjdHNcUHJvamVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/List/Search/SearchList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdFxTZWFyY2hcU2VhcmNoTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/User/Login/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxMb2dpblxMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Center/Components/Applications/Applications.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxDZW50ZXJcQ29tcG9uZW50c1xBcHBsaWNhdGlvbnNcQXBwbGljYXRpb25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-knnl5takha
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Center/Components/ArticleListContent/ArticleListContent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxDZW50ZXJcQ29tcG9uZW50c1xBcnRpY2xlTGlzdENvbnRlbnRcQXJ0aWNsZUxpc3RDb250ZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-58wa0raw1p
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Center/Components/Articles/Articles.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxDZW50ZXJcQ29tcG9uZW50c1xBcnRpY2xlc1xBcnRpY2xlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-q85bxi1id0
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Center/Components/AvatarList/AvatarList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxDZW50ZXJcQ29tcG9uZW50c1xBdmF0YXJMaXN0XEF2YXRhckxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ahv5brg03p
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Center/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxDZW50ZXJcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-u51zm2xf2d
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Settings/Components/BaseView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTZXR0aW5nc1xDb21wb25lbnRzXEJhc2VWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-206fhcq157
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Settings/Components/GeographicView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTZXR0aW5nc1xDb21wb25lbnRzXEdlb2dyYXBoaWNWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-k699hqvr5m
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Settings/Components/PhoneView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTZXR0aW5nc1xDb21wb25lbnRzXFBob25lVmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-96fjv510cw
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Account/Settings/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTZXR0aW5nc1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-zwqldeq2am
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/Charts/ChartCard/ChartCard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcQ2hhcnRzXENoYXJ0Q2FyZFxDaGFydENhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-egzaodfma9
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/Charts/Field/Field.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcQ2hhcnRzXEZpZWxkXEZpZWxkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-i66r9vl586
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/Charts/MiniProgress/MiniProgress.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcQ2hhcnRzXE1pbmlQcm9ncmVzc1xNaW5pUHJvZ3Jlc3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7ot53n511h
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/Charts/Pie/Pie.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcQ2hhcnRzXFBpZVxQaWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5x1hukg9bl
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/Charts/TagCloud/TagCloud.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcQ2hhcnRzXFRhZ0Nsb3VkXFRhZ0Nsb3VkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-942yzwpeu4
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/Charts/TimelineChart/TimelineChart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcQ2hhcnRzXFRpbWVsaW5lQ2hhcnRcVGltZWxpbmVDaGFydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-85pxrikc7k
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/Charts/WaterWave/WaterWave.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcQ2hhcnRzXFdhdGVyV2F2ZVxXYXRlcldhdmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rschmtkytr
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/NumberInfo/NumberInfo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcTnVtYmVySW5mb1xOdW1iZXJJbmZvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-mrwlwv22n8
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Components/Trend/Trend.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXENvbXBvbmVudHNcVHJlbmRcVHJlbmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-mdkz77ffbf
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Analysis/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEFuYWx5c2lzXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-fctvxo6lql
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Monitor/Components/ActiveChart/ActiveChart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXE1vbml0b3JcQ29tcG9uZW50c1xBY3RpdmVDaGFydFxBY3RpdmVDaGFydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-1mzdm5mi2x
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Monitor/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXE1vbml0b3JcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-evxna0hlte
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Workplace/Components/EditableLinkGroup/EditableLinkGroup.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXFdvcmtwbGFjZVxDb21wb25lbnRzXEVkaXRhYmxlTGlua0dyb3VwXEVkaXRhYmxlTGlua0dyb3VwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-sjx6rn5k1c
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Workplace/Components/Radar/Radar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXFdvcmtwbGFjZVxDb21wb25lbnRzXFJhZGFyXFJhZGFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-gtwnsddk76
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Dashboard/Workplace/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXFdvcmtwbGFjZVxJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-6yn2l4fcpz
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Form/AdvancedForm/AdvancedForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybVxBZHZhbmNlZEZvcm1cQWR2YW5jZWRGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-o0twlg9n5w
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Form/BasicForm/BasicForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybVxCYXNpY0Zvcm1cQmFzaWNGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-nxa7pqmjyl
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Form/StepForm/Components/Step1/Step1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybVxTdGVwRm9ybVxDb21wb25lbnRzXFN0ZXAxXFN0ZXAxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-shxbodiuzd
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Form/StepForm/Components/Step2/Step2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybVxTdGVwRm9ybVxDb21wb25lbnRzXFN0ZXAyXFN0ZXAyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-qy7ogr7kio
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Form/StepForm/Components/Step3/Step3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybVxTdGVwRm9ybVxDb21wb25lbnRzXFN0ZXAzXFN0ZXAzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-xff0w3s6jx
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Form/StepForm/StepForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybVxTdGVwRm9ybVxTdGVwRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-y07mx7sws3
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/List/BasicList/BasicList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdFxCYXNpY0xpc3RcQmFzaWNMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-84yldnr1uy
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/List/CardList/CardList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdFxDYXJkTGlzdFxDYXJkTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-uc6kz84dz2
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/List/Search/Applications/Applications.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdFxTZWFyY2hcQXBwbGljYXRpb25zXEFwcGxpY2F0aW9ucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-2qydcse35f
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/List/Search/Applications/Components/StandardFormRow/StandardFormRow.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdFxTZWFyY2hcQXBwbGljYXRpb25zXENvbXBvbmVudHNcU3RhbmRhcmRGb3JtUm93XFN0YW5kYXJkRm9ybVJvdy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-8afkqws5vt
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/List/Search/Applications/Components/TagSelect/TagSelect.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdFxTZWFyY2hcQXBwbGljYXRpb25zXENvbXBvbmVudHNcVGFnU2VsZWN0XFRhZ1NlbGVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-dvyfk8e085
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/List/Search/Articles/Articles.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdFxTZWFyY2hcQXJ0aWNsZXNcQXJ0aWNsZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-11txbkumt8
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/List/TableList/TableList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdFxUYWJsZUxpc3RcVGFibGVMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-m0rhm3lo72
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Result/Fail/Fail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdWx0XEZhaWxcRmFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-x2n4heltfu
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/Result/Success/Success.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdWx0XFN1Y2Nlc3NcU3VjY2Vzcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-a2mbwmg9sw
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/User/RegisterResult/RegisterResult.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxSZWdpc3RlclJlc3VsdFxSZWdpc3RlclJlc3VsdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-mz8r3vzb06
+
+[C:/Users/isaac/Downloads/ComunnityConnect/Pages/User/Register/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxSZWdpc3RlclxSZWdpc3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-agx7m63phz
