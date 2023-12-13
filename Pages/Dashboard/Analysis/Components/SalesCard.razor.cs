@@ -29,13 +29,13 @@ namespace New_folder.Pages.Dashboard.Analysis
         [Parameter]
         public SaleItem[] Items { get; set; } =
         {
-            new SaleItem {Id = 1, Title = "Gongzhuan No.0 shop", Total = "323,234"},
-            new SaleItem {Id = 2, Title = "Gongzhuan No.1 shop", Total = "323,234"},
-            new SaleItem {Id = 3, Title = "Gongzhuan No.2 shop", Total = "323,234"},
-            new SaleItem {Id = 4, Title = "Gongzhuan No.3 shop", Total = "323,234"},
-            new SaleItem {Id = 5, Title = "Gongzhuan No.4 shop", Total = "323,234"},
-            new SaleItem {Id = 6, Title = "Gongzhuan No.5 shop", Total = "323,234"},
-            new SaleItem {Id = 7, Title = "Gongzhuan No.6 shop", Total = "323,234"}
+          new SaleItem {Id = 1, Title = "Paris, France", Total = "323,234"},
+new SaleItem {Id = 2, Title = "Tokyo, Japan", Total = "323,234"},
+new SaleItem {Id = 3, Title = "Sydney, Australia", Total = "323,234"},
+new SaleItem {Id = 4, Title = "New York, USA", Total = "323,234"},
+new SaleItem {Id = 5, Title = "London, UK", Total = "323,234"},
+new SaleItem {Id = 6, Title = "Berlin, Germany", Total = "323,234"},
+new SaleItem {Id = 7, Title = "Rio de Janeiro, Brazil", Total = "323,234"}
         };
 
         [Inject] public IChartService ChartService { get; set; }
